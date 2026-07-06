@@ -17,7 +17,7 @@
 
 - **Vibe:** (2-3 words that describe the feeling of the content)
 - **Reference accounts / photographers:** (IG handles, names, URLs)
-- **What I want to steal from each reference:** (specific — "the wide-angle仰视角度," "the desaturated palette," "the candid walking shot")
+- **What I want to steal from each reference:** (specific — "the wide-angle low shot," "the desaturated palette," "the candid walking shot")
 
 ---
 
