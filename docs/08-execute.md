@@ -1,21 +1,24 @@
-# Step 8: Execute
+# Toolkit Module 08: Execute
 
-## What You're Doing
+> Part of the Creator Shoot Planning Toolkit. Day-of execution and post-shoot debrief.
 
-Executing the plan on location — and debriefing after.
+---
+
+## What This Module Does
+
+Gets you through the shoot day and through post-production without losing footage or context. The debrief feeds back into the toolkit for next time.
 
 ---
 
 ## Day Before the Shoot
 
-- [ ] Charge all batteries (camera, wireless mic transmitter + receiver)
-- [ ] Format SD card
-- [ ] Pack kit — confirm everything is in the bag
-- [ ] Save location to phone maps (download offline map if possible)
-- [ ] Confirm mic with a test recording
-- [ ] Review shot list — read it once, not memorize it
-- [ ] Set outfit / subject prep if applicable
-- [ ] Check weather — does it affect the shoot plan?
+- [ ] All batteries charged (camera + mic transmitter + receiver)
+- [ ] SD card formatted
+- [ ] Kit packed — confirm everything is in the bag
+- [ ] Location saved to phone maps (download offline map if possible)
+- [ ] Mic test confirmed
+- [ ] Shot list reviewed — read it once, not memorized
+- [ ] Weather checked — does it affect the plan?
 
 ---
 
@@ -33,12 +36,12 @@ Executing the plan on location — and debriefing after.
    - Play it back and confirm clean audio.
    - Set the camera mic as backup.
 
-3. **Set your camera settings before you start shooting.**
-   - White balance: Lock to daylight or cloudy (not Auto).
-   - ISO ceiling: Set max ISO (e.g., 1600 for video, 800 for photo).
-   - Frame rate: 24fps cinematic or 30fps standard — pick one and stick to it.
-   - Focus: Manual focus with focus lock, or continuous AF with a backup focus mark.
-   - Image stabilization: On if handheld, off if on a tripod.
+3. **Lock your camera settings before you start shooting.**
+   - White balance: Lock to daylight or cloudy (not Auto — bold colors shift mid-roll)
+   - ISO ceiling: Max ISO 1600 for video, 800 for photo
+   - Frame rate: 24fps cinematic or 30fps standard — pick one, stick to it
+   - Focus: Manual focus with focus lock, or continuous AF with a backup focus mark
+   - Image stabilization: On if handheld, off if on a tripod
 
 4. **Do a wide shot first.**
    - Establish that you have the location.
@@ -54,7 +57,7 @@ Executing the plan on location — and debriefing after.
 1. Wide establishing shot (confirm the location)
 2. Medium shots (the substance)
 3. Tight detail shots (texture and variety)
-4. Talking-to-camera or walk-and-talk (main content — do this before fatigue sets in)
+4. Talking-to-camera or walk-and-talk (main content — do this before fatigue)
 5. Any remaining angles you haven't gotten
 
 **Rule: Review every 5th setup.**
@@ -71,7 +74,7 @@ Executing the plan on location — and debriefing after.
 ## Common On-Location Mistakes
 
 - **Not doing a test clip.** You don't find out your audio is bad until edit.
-- **Leaving white balance on Auto.** Bold colors (murals, neon, signs) will shift mid-roll.
+- **Leaving white balance on Auto.** Bold colors (murals, neon, signs) shift mid-roll.
 - **Shooting in Auto ISO.** Uncontrolled noise in low light.
 - **Continuous recording.** You have 4 hours of footage and no idea what's good.
 - **Staying in one spot.** The best angle is usually 20 feet from where you're standing.
@@ -110,7 +113,7 @@ Answer these questions while the shoot is fresh:
 5. Was the anxiety protocol useful? What to add for next time?
 6. What gear am I missing?
 
-These notes go into your shoot template for next time.
+These notes go into your shoot template for next time. The best updates to this toolkit come from real shoots.
 
 ---
 
@@ -119,12 +122,12 @@ These notes go into your shoot template for next time.
 - Footage offloaded and backed up
 - Selects pulled within 24 hours
 - Debrief notes in the shoot template
-- What to change for the next shoot documented
+- Toolkit updates documented (what to change for next time)
 
 ---
 
-## End of Workshop
+## End of Toolkit Process
 
 You've gone from brief to execution. The shoot is done.
 
-If this is a recurring shoot (a series, a client, a location you return to), the shoot template becomes your starting point — copy it, update the brief, and the process gets faster each time.
+If this is a recurring shoot (a series, a client, a location you return to), copy the shoot template, update the brief, and the process gets faster each time.

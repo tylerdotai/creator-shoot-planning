@@ -1,4 +1,8 @@
-# Execute — Day Of
+# Execute Card
+
+> Part of the Creator Shoot Planning Toolkit. The day-of checklist. Keep this on your phone.
+
+---
 
 ## Day Before
 
@@ -26,7 +30,7 @@
 1. Wide establishing
 2. Medium shots
 3. Tight detail shots
-4. Talking-to-camera / walk-and-talk (main content — do this before fatigue)
+4. Talking-to-camera / walk-and-talk (main content — before fatigue)
 5. Remaining angles
 
 ---
@@ -34,7 +38,7 @@
 ## Rules
 
 - Review every 5th setup (10-second playback)
-- Keep moving — if you freeze, walk to new light/wall
+- Keep moving — freeze = walk to new light/wall
 - No clip over 2 minutes
 
 ---

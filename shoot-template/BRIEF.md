@@ -1,6 +1,6 @@
-# Shoot Brief — [Shoot Name]
+# Shoot Brief
 
-> Copy this into your shoot plan. Fill in each section before the shoot.
+> Part of the Creator Shoot Planning Toolkit. Copy this for every shoot. Fill in before you plan anything else.
 
 ---
 

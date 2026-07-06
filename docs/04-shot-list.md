@@ -1,14 +1,18 @@
-# Step 4: Build the Shot List
+# Toolkit Module 04: Shot List
 
-## What You're Doing
+> Part of the Creator Shoot Planning Toolkit. Building concrete shots — exact framing, exact position, exact words to say to talent.
 
-Building concrete shots — not "get something wide" but exact framing, exact position, exactly what to say to talent.
+---
+
+## What This Module Does
+
+Builds the shot list. Not "get something wide" — exact focal length, exact position, exactly what to say to whoever is in front of the camera.
 
 ---
 
 ## The Shot List Format
 
-For each shot, fill in:
+For each shot:
 
 ```
 **Shot Name**
@@ -37,41 +41,32 @@ Every shoot should have these four:
 ### 1. Wide Establishing Shot
 - Shows the location
 - What to capture: the environment, the scale, where you are
-- When to use: at the start of the shoot — confirms you have the location
+- When to use: at the start of the shoot
 
 ### 2. Tight Detail Shot
 - One texture, one element, one moment
 - What to capture: something small that captures the texture of the place
-- When to use: between wider shots — gives the edit variety
+- When to use: between wider shots for edit variety
 
 ### 3. Talking-to-Camera or Walk-and-Talk
-- The main content
+- The main content — audio matters here
 - What to capture: subject speaking or walking with audio
-- When to use: after you've established the location with wides
+- When to use: after establishing shots, before fatigue sets in
 
 ### 4. Environmental Portrait
-- Subject in context — not a headshot, not a full body — something in between
+- Subject in context — not a headshot, not a full body
 - What to capture: subject + their environment in balance
 - When to use: whenever the location is interesting enough to show
 
 ---
 
-## Rules for the Shot List
+## Rules
 
 1. **No options.** One shot, one instruction. Not "try wide or tight" — pick one.
-2. **Max 8 shots.** Five is better than eight. You won't execute more than that on location anyway.
+2. **Max 8 shots.** Five is better than eight. You won't execute more than that.
 3. **Write what to say.** If you freeze, reading "tell talent to look at the camera for 5 seconds" keeps you moving.
 4. **Write why it works.** You need to trust the shot. If you don't trust it, you'll second-guess it on location.
-5. **Include time of day.** Mark which shots are golden hour only, which are any time.
-
----
-
-## Common Mistakes
-
-- Writing "wide shot" instead of "35mm at f/4, subject against the wall, stand 6 feet away"
-- Listing 15 shots and executing 3
-- Not writing what to say to talent — then freezing because talent is just standing there
-- Forgetting to include audio shots if you're shooting video
+5. **Mark time of day.** Which shots are golden hour only, which are any time.
 
 ---
 
@@ -81,6 +76,6 @@ Every shoot should have these four:
 
 ---
 
-## Next Step
+## Next Module
 
-→ [`docs/05-angles.md`](./05-angles.md) — Build the angle confidence system
+→ [`docs/05-angles.md`](./05-angles.md) — Angle confidence system

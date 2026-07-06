@@ -1,14 +1,12 @@
-# Step 3: Define the Visual Aesthetic
+# Toolkit Module 03: Style
 
-## What You're Doing
-
-Translating "I want it to look cool" into specific, actionable direction.
+> Part of the Creator Shoot Planning Toolkit. Translating "I want it to look cool" into specific, actionable visual direction.
 
 ---
 
-## Why This Step Exists
+## What This Module Does
 
-Most shoot anxiety comes from not knowing what you're trying to capture. The references you pulled in the brief — and the specific things you want to steal from each — are what make the shot list concrete. Without this step, the shot list becomes a list of random "cool shots" with no cohesion.
+Gives you a concrete visual plan — not a vibe board, not a mood board, but specific things to execute. The "steals" from your references become the shot list.
 
 ---
 
@@ -26,10 +24,9 @@ Examples:
 ### 2. Define the Visual Pillars
 
 **Lens / Focal Length**
-- What focal length defines this look?
-- Wide (16–24mm) for environmental context and distortion
-- Standard (35–50mm) for "natural" human perspective
-- Telephoto (85mm+) for compression and isolation
+- Wide (16–24mm) → environmental context and distortion
+- Standard (35–50mm) → "natural" human perspective
+- Telephoto (85mm+) → compression and isolation
 
 **Lighting Quality**
 - Hard light (harsh shadows, high contrast)
@@ -53,7 +50,7 @@ Examples:
 
 ### 3. What to Steal from Each Reference
 
-Go back to the references in your brief. For each one, write one specific thing:
+Go back to your brief references. For each one, write one specific thing:
 
 ```
 Reference 1: @username / photographer name
@@ -66,20 +63,20 @@ Reference 3: @username / campaign image
 Steal: [specific thing] — e.g. "the candid walking away from camera with urban background in focus"
 ```
 
-These "steals" become the shot list. You're not copying — you're extracting principles and applying them.
+These "steals" feed directly into the shot list. You're extracting principles and applying them — not copying.
 
 ### 4. What to Avoid
 
-Just as important as what to steal. Write 2–3 things that are NOT this aesthetic:
+Just as important as what to steal. Write 2–3 guardrails:
 - "No soft focus / lens flare"
-- "No golden hour only — this is a night shoot"
-- "Not too polished / too styled — keep it raw"
+- "No golden hour only — this is a day shoot"
+- "Not too polished — keep it raw"
 
 ---
 
 ## Output
 
-Section added to `SHOTS.md` or a dedicated `STYLE.md`:
+Style notes in your plan:
 - Three-word vibe name
 - Visual pillars (lens, lighting, color, framing)
 - What to steal from each reference (specific, not vague)
@@ -87,6 +84,6 @@ Section added to `SHOTS.md` or a dedicated `STYLE.md`:
 
 ---
 
-## Next Step
+## Next Module
 
 → [`docs/04-shot-list.md`](./04-shot-list.md) — Build the shot list

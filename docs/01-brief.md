@@ -1,20 +1,18 @@
-# Step 1: Capture the Brief
+# Toolkit Module 01: Brief
 
-## What You're Doing
-
-Capturing the shoot parameters before you build anything else. This is where you pin down what you're making, where, and what you care about.
+> Part of the Creator Shoot Planning Toolkit. This module captures the shoot parameters — before you build anything else.
 
 ---
 
-## Why This Step Matters
+## What This Module Does
 
-Everything downstream — the shot list, the angle system, the anxiety protocol — derives from what you capture here. If you skip this, you'll show up on location and improvise, which is where freeze and overwhelm come from.
+Captures what you're shooting, where, with what vibe, and what you're most worried about. Everything in the toolkit flows from this module. Skip it and the shot list becomes generic.
 
 ---
 
 ## What to Fill In
 
-Use `RESEARCH.md` or the blank brief in `templates/shoot-brief.md`. Capture:
+Use `shoot-template/BRIEF.md` or your own format. Capture:
 
 ### 1. Content Type
 What are you making?
@@ -30,7 +28,7 @@ What are you making?
 ### 2. Location
 Specific place, or "open — recommend something."
 
-If you don't know where to shoot, note that here and move to Step 2 research before filling in the shot list.
+If you don't know where to shoot, note that here. The research module will give you options.
 
 ### 3. Duration
 How long do you have?
@@ -40,7 +38,7 @@ How long do you have?
 - Just an afternoon (2–3 hours)
 
 ### 4. The Aesthetic
-This is the most important part of the brief.
+This is the most important part.
 
 Don't write "I want it to look good." Write what "good" means to you.
 
@@ -64,18 +62,18 @@ Anything already in your head. Even vague ideas:
 - "Walking away from the camera"
 
 ### 6. Gear On Hand
-What camera, lens, audio gear, and stabilization are you bringing? This constrains what the shot list can ask for. Be honest about your kit.
+What camera, lens, audio gear, and stabilization are you bringing? This constrains what the shot list can ask for.
 
 ### 7. Hard Concerns
-Check the boxes that apply to you:
-- [ ] People staring at me while I shoot
+Check the boxes that apply:
+- [ ] People staring at me
 - [ ] Not knowing what angle to use
 - [ ] Audio not working / not capturing clean sound
 - [ ] Forgetting the plan once I'm on location
 - [ ] Getting overwhelmed by the environment
 - [ ] Other: _______________
 
-**This is critical.** If you check "people staring," the plan needs to address that with specific tactics. If you check "angles," the plan needs fallback angles you can execute without thinking.
+**This is critical.** If you check "people staring," the anxiety module needs specific tactics for you. If you check "angles," the angle module needs extra fallback structure.
 
 ---
 
@@ -84,17 +82,17 @@ Check the boxes that apply to you:
 If you write any of these, push back:
 
 - "I'll know it when I see it" → No. Write down one specific shot idea.
-- "I'll just figure it out on the day" → The plan is what prevents freeze.
+- "I'll just figure it out on the day" → The toolkit is what prevents freeze.
 - "I want it to look cinematic" → Define cinematic. Reference a specific look.
 
 ---
 
 ## Output
 
-`BRIEF.md` (or `RESEARCH.md`) filled in with all sections. Once you have this, move to Step 2.
+`BRIEF.md` filled in with all sections. Once you have this, move to Module 02.
 
 ---
 
-## Next Step
+## Next Module
 
 → [`docs/02-research.md`](./02-research.md) — Scout the location

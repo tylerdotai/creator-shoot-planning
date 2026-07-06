@@ -1,14 +1,12 @@
-# Step 7: Anxiety Management on Location
+# Toolkit Module 07: Anxiety
 
-## What You're Doing
-
-Pre-mortem your known pain points. You're not trying to eliminate anxiety — you're giving it a script so you have something to do when it hits.
+> Part of the Creator Shoot Planning Toolkit. Pre-mortem your known pain points — and give each one a script so you have something to do when it hits.
 
 ---
 
-## Why This Step Exists
+## What This Module Does
 
-Anxiety on location doesn't disappear with a shot list. It disappears when you know exactly what to do next. This step is the difference between a plan you wrote and a plan you can execute when you're scared.
+Anxiety on location doesn't disappear with a shot list. It disappears when you know exactly what to do next. This module gives each trigger a specific response protocol — not "think positive," but "when X happens, do Y."
 
 ---
 
@@ -16,39 +14,39 @@ Anxiety on location doesn't disappear with a shot list. It disappears when you k
 
 ### 1. People Are Staring at Me
 
-This is the most common anxiety for self-shooters. Here's the protocol:
-
 **Before you feel exposed:**
 - Scout the location first. Arrive early. Walk it once without your camera.
 - Know where you're setting up before you set up.
-- If you can, shoot from the hip (camera at waist level, no viewfinder) — no one knows you're shooting.
+- Shoot from the hip if you need to — camera at waist level, no viewfinder. No one knows you're shooting.
 
 **When you feel exposed:**
 - No one is paying attention to you.
 - Walk with purpose. People read that as "I belong here."
 - The person most aware of you is you.
-- If someone stares, keep shooting. Your comfort comes from your conviction.
+- If someone stares, keep shooting. Your conviction is the performance.
 
 **Low-pressure location strategy:**
 - Early morning (7–9 AM) = empty streets
 - Weekdays = fewer people than weekends
 - Industrial / non-tourist areas = people who don't care
 
+---
+
 ### 2. I Don't Know What Angle to Use
 
-You already solved this. You have:
-- A shot list with exact framing
-- Three fallback angles
+You already have the fallbacks. Use them.
 
 **When you freeze:**
-- Go to the next fallback. Wide + Low → Medium + High → Tight + Detail.
+- Go to the next fallback: Wide + Low → Medium + High → Tight + Detail.
 - Trust the list. You wrote it for a reason.
 - If you still can't decide, go wide. Wide is always safer than tight when unsure.
 
 **When the shot list runs out:**
 - Find new light. Shadows, reflections, a window.
 - Find a new wall. Move 20 feet, find a different background.
-- Put the camera somewhere it hasn't been (ground level, above eye level, across the street).
+- Put the camera somewhere it hasn't been — ground level, above eye level, across the street.
+
+---
 
 ### 3. Audio Isn't Working / I Don't Know If the Audio Is Clean
 
@@ -64,7 +62,9 @@ You already solved this. You have:
 
 **The 10-second check:**
 - Every 3rd setup, do a 10-second audio check.
-- Play it back. If it sounds wrong, you catch it before you've shot for 30 minutes.
+- Play it back. If it sounds wrong, you catch it before you've shot 30 minutes of bad audio.
+
+---
 
 ### 4. I Froze Completely
 
@@ -96,6 +96,6 @@ Run this before you start shooting:
 
 ---
 
-## Next Step
+## Next Module
 
-→ [`docs/08-execute.md`](./08-execute.md) — Execute the shoot
+→ [`docs/08-execute.md`](./08-execute.md) — Day-of execution

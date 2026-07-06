@@ -1,8 +1,12 @@
-# Creator Shoot Planning Workshop
+# Creator Shoot Planning Toolkit — Workshop Guide
 
-> **Go from "I want to shoot something" to a concrete plan you can execute on location — in a repeatable, guided process.**
+> **How to use the toolkit. This is the onboarding walkthrough — the toolkit itself is the product.**
 
-This is the full walkthrough. For each step, read the guide in `/docs/`, do the work, then come back here to move forward.
+---
+
+## What You're Getting
+
+A repeatable 8-step process for planning any shoot. Walk through it once to understand the toolkit. Use the toolkit (the `docs/`, `shoot-template/`, and `skills/` folders) every time you have a shoot.
 
 ---
 
@@ -33,16 +37,16 @@ You need:
 
 ## Step 1: Brief
 
-**Guide: [`docs/01-brief.md`](./docs/01-brief.md)**
+**Toolkit Module: [`docs/01-brief.md`](./docs/01-brief.md)**
 
-Capture the shoot parameters. Your goal is to fill in `BRIEF.md` with:
+Capture the shoot parameters. Fill in `BRIEF.md` with:
 
 - What kind of content (streetwear, event, landscape, urban exploration, etc.)
 - Location (specific place or open for recommendation)
 - Duration (how long you have)
 - Gear on hand
 - Must-have shots (anything already in your head)
-- Aesthetic references (IG accounts, photographers, visual refs)
+- Aesthetic references (accounts, photographers, visual refs)
 - Hard concerns (what are you most worried about on the day?)
 
 Use the brief template in `shoot-template/BRIEF.md`. Don't skip this — everything downstream depends on what you capture here.
@@ -53,7 +57,7 @@ Use the brief template in `shoot-template/BRIEF.md`. Don't skip this — everyth
 
 ## Step 2: Research
 
-**Guide: [`docs/02-research.md`](./docs/02-research.md)**
+**Toolkit Module: [`docs/02-research.md`](./docs/02-research.md)**
 
 Scout the location. You're looking for:
 
@@ -72,7 +76,7 @@ If no location is given, recommend 2–3 options with rationale. Bias toward loc
 
 ## Step 3: Style
 
-**Guide: [`docs/03-style.md`](./docs/03-style.md)**
+**Toolkit Module: [`docs/03-style.md`](./docs/03-style.md)**
 
 Define the visual aesthetic. This is not "I want it to look good" — it's specific:
 
@@ -83,13 +87,13 @@ Define the visual aesthetic. This is not "I want it to look good" — it's speci
 
 Pull 3–5 reference images or accounts. Name specific things you want to steal from each.
 
-**Output:** Style notes in `SHOTS.md` — specific visual direction, not vague goals.
+**Output:** Style notes — specific visual direction, not vague goals.
 
 ---
 
 ## Step 4: Shot List
 
-**Guide: [`docs/04-shot-list.md`](./docs/04-shot-list.md)**
+**Toolkit Module: [`docs/04-shot-list.md`](./docs/04-shot-list.md)**
 
 Build the shot list. For each shot, give:
 
@@ -113,11 +117,11 @@ Always include:
 
 ## Step 5: Angle System
 
-**Guide: [`docs/05-angles.md`](./docs/05-angles.md)**
+**Toolkit Module: [`docs/05-angles.md`](./docs/05-angles.md)**
 
 Define three fallback angles so you never freeze mid-shoot:
 
-1. **Wide + Low** — 16mm, low angle, catch sky/architecture above subject
+1. **Wide + Low** — widest lens, low angle, catch sky/architecture above subject
 2. **Medium + High** — 35mm, shoot down slightly, crop out background distractions
 3. **Tight + Detail** — 50mm, find one texture element, leave everything else out
 
@@ -131,7 +135,7 @@ If you freeze, go to the next fallback. No thinking required.
 
 ## Step 6: Audio Plan
 
-**Guide: [`docs/06-audio.md`](./docs/06-audio.md)**
+**Toolkit Module: [`docs/06-audio.md`](./docs/06-audio.md)**
 
 For each shot in the list, decide:
 
@@ -156,7 +160,7 @@ For each shot in the list, decide:
 
 ## Step 7: Anxiety
 
-**Guide: [`docs/07-anxiety.md`](./docs/07-anxiety.md)**
+**Toolkit Module: [`docs/07-anxiety.md`](./docs/07-anxiety.md)**
 
 Pre-mortem your known pain points. For each:
 
@@ -184,7 +188,7 @@ Pre-mortem your known pain points. For each:
 
 ## Step 8: Execute
 
-**Guide: [`docs/08-execute.md`](./docs/08-execute.md)**
+**Toolkit Module: [`docs/08-execute.md`](./docs/08-execute.md)**
 
 **Day before the shoot:**
 - Charge all batteries
@@ -209,20 +213,6 @@ Pre-mortem your known pain points. For each:
 
 ---
 
-## Gear Pre-Lock (Example Settings)
-
-For any urban shoot:
-
-| Setting | Value | Why |
-|---------|-------|-----|
-| WB | Daylight or Cloudy | Auto WB shifts mid-roll on bold colors |
-| ISO max | 1600 (video) / 800 (photo) | Keeps noise manageable on kit lenses |
-| Frame rate | 24fps cinematic / 30fps standard | Match the mood |
-| Focus | Manual with focus lock | Don't trust continuous AF in low contrast |
-| Mic | Check receiver LED before every setup | One check prevents a ruined shoot |
-
----
-
 ## Quick Reference
 
 ### Shot List Format
@@ -237,7 +227,7 @@ For any urban shoot:
 
 ### Angle Fallback System
 
-1. **Wide + Low** → 16mm, low angle, sky/architecture above
+1. **Wide + Low** → widest lens, low angle, sky/architecture above
 2. **Medium + High** → 35mm, slight down angle, cleaner background
 3. **Tight + Detail** → 50mm, one texture element only
 
@@ -260,4 +250,4 @@ For any urban shoot:
 
 ---
 
-*This workshop is a living process. After each shoot, come back and update the guides with what you learned.*
+*This toolkit is a living system. After each shoot, update the modules and templates with what you learned.*
