@@ -6,10 +6,6 @@
 
 ## Shoot Basics
 
-> **Home base vs. shoot city:** If the shoot city differs from your home base, the travel planning workflow activates in `docs/02-research.md`.
-
-- **Home base:** (city you shoot from)
-- **Shoot city:** (if different from home base — travel planning activates)
 - **Shoot name:**
 - **Date:**
 - **Location:**

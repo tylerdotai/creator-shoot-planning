@@ -10,30 +10,6 @@ Gives you everything you need to know about the location before you arrive. Time
 
 ---
 
-## Travel Planning (If the Shoot Is Away From Home Base)
-
-> If the shoot city is different from your home base, plan the trip **before** scouting the location. No point researching a location you can't afford to get to.
-
-When the shoot city differs from where you're based:
-
-### Step A — Get There
-Use the [Travel Agent Toolkit](https://github.com/tylerdotai/travel-agent) to research:
-- **Flights** — 3+ sources (Momondo, Skyscanner, direct carrier). Target Tuesdays/Fridays for cheapest fares.
-- **Transport from airport** — rideshare cost, transit options, rental car necessity.
-- **Accommodation** — where to stay relative to the shoot location (minimize commute, maximize safety and connectivity).
-
-### Step B — Lock the Budget
-- Airfare estimate + accommodation estimate + transport = **trip floor cost**.
-- Compare against budget. If the trip costs more than 40% of your available budget, flag it — you may need to shorten the stay or find cheaper transport.
-- Flag free-cancellation options until the shoot is confirmed.
-
-### Step C — Confirm Before Scouting
-Do not spend time researching a location until:
-1. You have a flight/accommodation quote that fits the budget.
-2. The shoot date is confirmed with any clients or collaborators.
-
----
-
 ## What to Look For
 
 ### 1. Signature Visuals
