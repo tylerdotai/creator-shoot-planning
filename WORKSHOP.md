@@ -59,6 +59,8 @@ Use the brief template in `shoot-template/BRIEF.md`. Don't skip this — everyth
 
 **Toolkit Module: [`docs/02-research.md`](./docs/02-research.md)**
 
+> **If the shoot city differs from your home base:** travel planning kicks in here first. Use the Travel Agent Toolkit to get flights, accommodation, and transport locked before spending time scouting a location you can't afford to reach.
+
 Scout the location. You're looking for:
 
 - Signature visuals (architecture, murals, light, textures)
